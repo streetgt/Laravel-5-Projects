@@ -12,10 +12,11 @@ https://github.com/stefanzweifel/fuellog
     Very simple CRUD app
     First thing where I've written useful tests.
     Not really finished yet
+    
 https://github.com/stefanzweifel/imgubox
 
     Auth by Email
     Make OAuth calls to Imgur and Dropbox
     Interact with Imgur-API and store favorited images in Dropbox folder.
-    Uses queues to allow for asynchronous calls```
+    Uses queues to allow for asynchronous calls
 
