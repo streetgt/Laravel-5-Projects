@@ -20,3 +20,8 @@ https://github.com/stefanzweifel/imgubox
     Interact with Imgur-API and store favorited images in Dropbox folder.
     Uses queues to allow for asynchronous calls
 
+https://github.com/tiagocardosoweb/laravel-subscriptions
+
+    Platform that uses User Subscription
+    Braintree and Laravel Cashier/Subscription implemention.
+
